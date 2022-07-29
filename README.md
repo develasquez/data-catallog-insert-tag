@@ -72,7 +72,7 @@ Data Catalog Tag Editor
 Or create an IAM Service account with these permisions and generate a json key finally populate the Google environment variable with the key file path
 
 ```sh
-export GOOGLE_APPLICATION_CREDENTIALS=/path/tp/file/service_account_key.json
+export GOOGLE_APPLICATION_CREDENTIALS=/path/to/file/service_account_key.json
 ```
 
 
