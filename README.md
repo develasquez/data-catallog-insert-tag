@@ -19,7 +19,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 * [mysql Client](https://dev.mysql.com/doc/refman/8.0/en/mysql.html) or similar
 * A Tag Template created in Data Catalog with at least the following values
 
-```json
+```
 {
     NOM: { string },
     DOM: { string },
